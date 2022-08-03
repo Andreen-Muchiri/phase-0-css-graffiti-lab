@@ -27,7 +27,7 @@ body {
 .tag-1 {
   background: url(../images/tag-1.png) no-repeat;
   z-index: 7;
-  display: block;
+  display: none;
 }
 
 #wall #tag-2 {
@@ -35,6 +35,7 @@ body {
   z-index: 6;
   display: block;
 }
+
 
 div#wall #tag-3.slick {
   background: url(../images/tag-3.png) no-repeat;
